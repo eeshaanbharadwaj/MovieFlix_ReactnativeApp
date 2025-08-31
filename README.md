@@ -1,3 +1,13 @@
+👉 Real-time data: Fetching and displaying real-time movie data
+
+👉 Home Page: Featured and discover movies
+
+👉 Search Page: Search for your favorite movies
+
+👉 Popularity algorithm: Track user searches to display the most popular movies
+
+and many more, including code architecture and reusability.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
