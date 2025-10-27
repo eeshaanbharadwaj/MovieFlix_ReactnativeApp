@@ -2,7 +2,7 @@
 # Features
   
 👉 Real-time data: Fetching and displaying real-time movie data
-
+ 
 👉 Home Page: Featured and discover movies
 
 👉 Search Page: Search for your favorite movies
